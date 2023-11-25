@@ -4,8 +4,6 @@ Spirits Guide is an AI-driven chatbot designed to assist customers of Vallee Liq
 
 https://spirits-guide.s6hib.repl.co 
 
-I was hired as a SE over Summer 2023, and was approved to share this to not only showcase my skills, but to potentially help other small liquor stores!
-
 ## Features
 
 - **Personalized Recommendations:** Offers suggestions based on individual preferences and needs.
