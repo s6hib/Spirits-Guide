@@ -2,7 +2,7 @@
 
 Spirits Guide is an AI-driven chatbot designed to assist customers of Vallee Liquor in selecting the perfect alcoholic beverages for any occasion. By asking a series of questions related to the event, budget, and personal preferences, Spirits Guide provides tailored recommendations, enhancing the shopping experience both in-store and online.
 
-[https://spirits-guide.s6hib.repl.co ](https://spirits-guide-s6hib.replit.app/)
+https://spirits-guide-s6hib.replit.app/
 
 ## Features
 
